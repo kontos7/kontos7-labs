@@ -1,0 +1,3 @@
+git remote add lab01_starter https://github.com/UoI-CSE-MYY402/lab01_starter.git
+git fetch lab01_starter
+git merge lab01_starter/master -m "Fetched lab01 starter files"
